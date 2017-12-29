@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="gb2312" ?>
+ <para>
+ <select name="waykind" desc="所属行业" id="waykind">
+  <option value="H" />
+  <option value="P" />
+  </select>
+ <select name="stockholde" desc="是否农户" id="ss">
+  <option value="1" />
+  <option value="0" />
+  </select>
+ </para>
